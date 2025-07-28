@@ -4,20 +4,20 @@
 👋 Bem-vindo ao meu projeto de **página pessoal** feito usando **HTML**, **CSS** e **JavaScript**! 🚀
 ```
 
-```bash
+
 🎨 Sobre o Projeto
 
 Este é um projeto simples, mas feito com muito carinho ❤️ para servir como cartão de visitas na web.
-A ideia é ter uma **página única**, moderna e responsiva, onde posso compartilhar informações sobre mim, projetos, hobbies e links importantes. 🌐🧩
-```
+A ideia é ter uma **página única**, moderna e responsiva,
+onde posso compartilhar informações sobre mim, projetos, hobbies e links importantes. 🌐🧩
 
-```bash
+
  🔧 Tecnologias Utilizadas
 
 * 🛠️ **HTML** – Estrutura da página
 * 🎨 **CSS** – Estilos e responsividade
 * ✨ **JavaScript** – Interatividade e efeitos
-```
+
 
 ```bash
  📦 Funcionalidades
